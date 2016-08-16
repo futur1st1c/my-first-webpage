@@ -14,3 +14,10 @@ p
   {
     font-family: monospace;
   }
+  p
+    {
+      font-size: 250%
+    }
+    p {
+      line-height: 150%
+    }
