@@ -6,3 +6,11 @@ h1 {
   {
     font-style: italic;
   }
+p
+  {
+    font-weight: bold;
+}
+p
+  {
+    font-family: monospace;
+  }
